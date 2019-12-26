@@ -1,6 +1,6 @@
 # The Book Of Answers
 
-A easy python script to extract one answer from The Book of Answers.
+An easy python script to extract one answer from The Book of Answers.
 
 The txt file comes from the project https://github.com/yujie-tao/the-book-of-answers 
 
